@@ -1,5 +1,7 @@
 # Comme
 유기 동물 커뮤니티
+![로고](https://user-images.githubusercontent.com/105222802/211997247-20373609-caa7-4b26-b9da-5b01f06af4e3.png)
+
 
 ## 개발 환경
 - eclipse
@@ -7,6 +9,7 @@
 - GitHub
 - Oracle
 - Visual Studio Code
+
 
 ## 사용 기술
 ### 백엔드
